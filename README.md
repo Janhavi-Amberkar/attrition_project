@@ -2,7 +2,7 @@
 
 Diagnostic (descriptive) analysis of 1,470 employees: where attrition happens and who is most affected.
 
-**Live dashboard:** <paste Streamlit link here>
+**Live dashboard:** https://attrition-risk-analysis.streamlit.app/
 
 ## Key findings
 - Overall attrition: 16.12% (237 of 1,470)
